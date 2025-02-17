@@ -1,17 +1,33 @@
-div {
-  background-color: lightblue;
+.header {
+  background-color: black;
   border: 1px solid black;
   margin: 10px;
   padding: 10px;
 }
-h1 {
+
+.header h1 {
   color: violet;
   font-size: 50px;
   text-align: center;
 }
-p {
-  color: lemonchiffon;
+.header p {
+  color: white;
   font-size: 34px;
   text-align: center;
+}
+.content {
+  background-color: violet;
+  border: 1px solid black;
+  margin: 10px;
+  padding: 10px;
+}
 
+.content h2 {
+  color: black;
+  font-size: 40px;
+}
+
+.content li {
+  color: white;
+  font-size: 20px;
 }
