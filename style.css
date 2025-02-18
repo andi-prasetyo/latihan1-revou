@@ -24,7 +24,7 @@
   margin: 20px;
   padding: 20px;
   width: 75%;
-  height: 800px;
+  height: 1600px;
   margin: auto;
 }
 
@@ -36,4 +36,17 @@
 .content li {
   color: white;
   font-size: 20px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  padding: 4px;
+  margin: 4px;
+}
+
+img {
+  padding: 2px;
+  margin: 4px;
 }
